@@ -1,4 +1,4 @@
-i
+
 # Goovo Assessment
 
 Frontend Developer Intern: Assessment Task Details

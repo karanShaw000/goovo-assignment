@@ -9,6 +9,8 @@ I have used "react-hook-form" to get the state of the form and after submitting 
 
 For the backdrop filter, I have just use useState hook to verify user from email and mobile.
 
+The Form component can be more cleaner in sense of writing code.
+
 
 
 ## Run Locally
